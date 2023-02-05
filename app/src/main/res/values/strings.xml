@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tinkoff</string>
+    <string name="popular">Популярные</string>
+    <string name="chosen">Избранное</string>
+    <string name="genre">Жанры: </string>
+    <string name="country">Страны:  </string>
+    <string name="failure">Произошла ошибка при загрузке данных</string>
+    <string name="try_again">Повторить</string>
+    <string name="enter_title">Введите название</string>
+</resources>
